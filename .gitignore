@@ -1,0 +1,29 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated outputs
+outputs/*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
